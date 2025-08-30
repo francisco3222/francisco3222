@@ -59,7 +59,6 @@ To work as a **Full-Stack Developer** focused on building robust web solutions a
 ## 📫 Contact
 
 📧 Email: franciscogahenriques@gmail.com  
-📱 Phone: +351 968 785 673  
 📍 Location: Estreito de Câmara de Lobos, Madeira – Portugal  
 🔗 GitHub: [github.com/francisco3222](https://github.com/francisco3222)
 
